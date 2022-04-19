@@ -63,9 +63,6 @@ You can click the Preview link to take a look at your changes.
   <a href = "https://codeforces.com/profile/ibrahem33"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height = 30></a>
   <a href = "https://leetcode.com/ibrahemdhade33/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height = 30></a>
  
-</p>
-<br />
-<h6 align="center" ><i>⚡If You Take The Design Please Star The Repo ⭐</i></h6>
-<br />
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
